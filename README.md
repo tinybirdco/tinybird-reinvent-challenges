@@ -6,7 +6,7 @@ If you want to improve your odds even more, there's extra credit at the end.
 The deadline to finish is **Friday, December 13th at 11:59 PM EST**. Winners will be announced the following week. Terms and conditions can be found [here](https://tbrd.co/aws-challenge).
 
 ## TL;DR Steps
-1. [Sign up](https://app.tinybird.co/signup) for a free Tinybird account (1 entry)
+1. [Sign up](https://tbrd.co/reinvent_challenge_signup) for a free Tinybird account (1 entry)
 2. Ingest the following to create a Data Source: https://reinvent-challenge.s3.us-west-2.amazonaws.com/black_jack_results.csv  (2 entries)
 3. Create a Pipe to determine chances of dealer winning based on their card (3 entries)
 4. Publish your Pipe as an API Endpoint and [submit the HTTP URL](https://forms.gle/HiRTFjbRy9di7Mzt7) (5 entries)
@@ -16,7 +16,7 @@ The deadline to finish is **Friday, December 13th at 11:59 PM EST**. Winners wil
 
 ## Detailed Steps
 
-#### [Sign up](https://app.tinybird.co/signup) for a free Tinybird account (1 entry)
+#### [Sign up](https://tbrd.co/reinvent_challenge_signup) for a free Tinybird account (1 entry)
 Get started in seconds, no credit card required.
 ![signup page](public/tinybird-signup.png)
 
@@ -48,11 +48,11 @@ Time to celebrate - click the big green **Create API Endpoint** button, copy the
 Tag us in a post about your experience trying out Tinybird!
 
 ## Extra Credit
-Loving Tinybird so far? Want to earn more raffle entires? Here's some extra credit you can try.
+Loving Tinybird so far? Want to earn more raffle entries? Here's some extra credit you can try.
 
 You can submit proof of extra credit through the [same form](https://forms.gle/HiRTFjbRy9di7Mzt7) as the main challenge.
 
-#### Add a Parameter to Your API (5 entires)
+#### Add a Parameter to Your API (5 entries)
 Update the API endpoint you built in the main challenge to allow specifying which card to receive win probabilities for.
 ![update node with parameter](public/query-parameter.png)
 
