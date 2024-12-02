@@ -106,7 +106,9 @@ Use the Tinybird Chart Library to create a chart that displays the data from you
 
 ### Build a Real-Time Analytics pipeline with DynamoDB
 🎟️ 20 entries | ⏳ 15-30 minutes
-Have data in Dynamo? Connect it to Tinybird and build your own real-time analytics API!
+Have data in Dynamo? Connect it to Tinybird and build your own real-time analytics API.
+
+If you don't have DynamoDB data, you can use our example data generator in the [extra_credit](https://github.com/tinybirdco/tinybird-reinvent-challenges/tree/main/extra_credit) folder.
 
 #### Resources:
 - [Tinybird Docs: DynamoDB Connector](https://www.tinybird.co/docs/ingest/dynamodb)
